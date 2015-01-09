@@ -8,6 +8,8 @@ output: html_document
 ## Intro
 This is *really*, **really** cool stuff.
 
+`print("Hello")`
+
 ## Methods
 
 - get item 1
@@ -17,6 +19,14 @@ This is *really*, **really** cool stuff.
 1. do 1
 1. do 2
 1. do 3
+
+## Results
+
+```{r}
+# R code block
+results <- c(1, 2, 3, 4 ,5)
+print(results)
+```
 
 ## Discussion
 things
