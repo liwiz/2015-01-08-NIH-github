@@ -28,7 +28,7 @@ results <- c(1, 2, 3, 4 ,5)
 print(results)
 ```
 
-```{r}
+```{r, echo=FALSE}
 plot(cars)
 ```
 
